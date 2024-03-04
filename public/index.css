@@ -1,0 +1,28 @@
+/* html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    margin-left: 1%;
+    margin-top: 0.3%;
+    margin-right: 1%;
+} */
+body {
+    overflow-x: hidden;
+    margin-left: 3%;
+    margin-top: 0.3%;
+    margin-right: 3%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    text-transform: inherit;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #333333;
+    word-wrap: break-word;
+    display: block;
+    background-color: #fef7e5;
+}
+/* :after, :before {
+    box-sizing: inherit;
+} */
+#root{
+    background-color: #fef7e5;
+}

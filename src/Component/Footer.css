@@ -1,0 +1,9 @@
+.footer{
+    background-color: #fef7e5;
+}
+
+@media (max-width: 600px) {
+    .widget img{
+        margin: auto;
+    }
+}

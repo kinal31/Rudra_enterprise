@@ -1,0 +1,12 @@
+#carouselExampleControls{
+    z-index: 1;
+}
+
+.home{
+    background-color:#fef7e5 ;
+}
+
+.sec1, .sec2, .box .sec3, .sec4{
+    background-color: #fef7e5;
+    background-color: rgba(0, 0, 0, 0.05);
+}

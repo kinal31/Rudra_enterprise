@@ -1,0 +1,12 @@
+.bsb-hero-1{
+    height: 40%;
+}
+@media (max-width: 600px) {
+    section{
+        height: 400;
+    }
+}
+.sec1, .sec2,  .sec3{
+    background-color: #fef7e5;
+    background-color: rgba(0, 0, 0, 0.05);
+}
